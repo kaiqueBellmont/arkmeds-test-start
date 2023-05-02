@@ -1,4 +1,4 @@
-## GitHook Arqmmeds
+## GitHook Arkmeds
 ![diagrama](diagram.png)
 ### Considerações sobre o teste:
 **Primeiramente gostaria de agradecer MUITO pela oportunidade!
